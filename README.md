@@ -1,6 +1,7 @@
 # GLUG-NITH Website Source Code
 
 [![Join the chat at https://gitter.im/Nithmr/glugWebsite](https://badges.gitter.im/Nithmr/glugWebsite.svg)](https://gitter.im/Nithmr/glugWebsite?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Almost all of the GLUG-NITH [website][1] is available here. The main aim of making the source code available to all via git is to promote the use of git among students especially among students in [NITH][3]
 
 # How do I get Started ?
